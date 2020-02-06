@@ -1,4 +1,4 @@
-Cookicutter Data Science for Dummies
+Cookicutter Data Science Simplified
 
 This small project is meant to be a beginner's introduction to Cookiecutter Data Science.
 Just clone or download this repo and poke around a bit. 
