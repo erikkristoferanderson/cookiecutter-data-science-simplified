@@ -22,8 +22,8 @@ Project Organization
 
 
 
-Based on Cookiecutter Data Science For Dummies.
-<add link>
-Which is based on the cookiecutter data science project template.
-https://drivendata.github.io/cookiecutter-data-science/
+Based on Cookiecutter Data Science For Simplified.  
+https://github.com/ekand/cookiecutter-data-science-simplified  
+Which is based on the cookiecutter data science project template.  
+https://drivendata.github.io/cookiecutter-data-science/  
 
